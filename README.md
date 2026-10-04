@@ -14,8 +14,6 @@ I build things across the stack — desktop apps, Android automation, kernels, a
 | **[Controller](https://github.com/Cai-kunkun/Controller)** | Android automation agent — screenshots go to a vision LLM; tap / text / swipe / long-press actions run through root (KernelSU / Magisk). |
 | **[custom-splash](https://github.com/Cai-kunkun/custom-splash)** | Minecraft mod that extends the original splash texts. Also on [Modrinth](https://modrinth.com/user/ArrBrants). |
 | **[ABK — AnyBase Kernel](https://github.com/Cai-kunkun/ABK)** | Toolkit for building GKI kernels your way. |
-| **[osu-tools](https://github.com/Cai-kunkun/osu-tools)** | Small utilities for osu!. |
-| **[bilibili_jump_and_report_helper](https://github.com/Cai-kunkun/bilibili_jump_and_report_helper)** | Userscript: jump to native-dub Bilibili videos and report the rest. |
 
 ### 🌱 Open source
 
